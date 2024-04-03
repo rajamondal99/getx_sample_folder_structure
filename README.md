@@ -1,0 +1,1 @@
+# getx_sample_folder_structure
